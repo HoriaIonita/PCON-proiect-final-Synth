@@ -1,4 +1,4 @@
-# (Titlu)
+# Synth Hi
 (Scurtă descriere)
 
 ## (Instalare)
