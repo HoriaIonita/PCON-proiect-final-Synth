@@ -1,7 +1,7 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name: Horia Ionita
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
@@ -25,7 +25,7 @@ code:
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external assets)
-assets:
-  - comment:
-    url:
-    licence:
+assets: Pirates of the Caribbean - He is a Pirate
+  - comment: Trackurile MIDI pentru demo-ul pluginului M4L
+    url: https://bitmidi.com/pirates-of-the-caribbean-hes-a-pirate-1-mid
+    licence: BitMidi
