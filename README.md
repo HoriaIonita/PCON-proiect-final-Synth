@@ -6,7 +6,7 @@ Pentru folosirea acestui synth, este nevoie de Ableton Live Suite.
 Se descarcă proiectul din GitHub.
 Pentru controlul prin OSC, va trebui instalată aplicația de iPhone Syntien (https://apps.apple.com/ro/app/syntien/id1203153534?l=ro).
 
-## (Utilizare)
+## Utilizare
 Se rulează fișierul Tema5.als, ce se va deschide în Ableton Live Suite, având ca track-uri prepopulate tema principală din franciza The Pirates of the Caribbean.
 Pentru controlul prin OSC, se deschide aplicația de iPhone Syntien. Se merge la Interface, unde se poate crea un nou Layout. Sugestie de Layout:
 
