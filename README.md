@@ -9,6 +9,7 @@ Pentru controlul prin OSC, va trebui instalată aplicația de iPhone Syntien (ht
 ## (Utilizare)
 Se rulează fișierul Tema5.als, ce se va deschide în Ableton Live Suite, având ca track-uri prepopulate tema principală din franciza The Pirates of the Caribbean.
 Pentru controlul prin OSC, se deschide aplicația de iPhone Syntien. Se merge la Interface, unde se poate crea un nou Layout. Sugestie de Layout:
+
 ![Syntien Demo](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/341811a4-db2b-4b5d-94cd-538bed6d6144)
 
 ## Istoric
