@@ -1,4 +1,4 @@
-# Synth Hi
+# HiSynth
 Am creat un mic synth ce are ca intrare un track MIDI. Informația MIDI este transformată în polifonie, având octavă, frecvență de modulație, frecvență semnal și amplitudine ajustabile fie prin interfața pluginului MAX for LVIE, fie prin OSC.
 
 ## Instalare
@@ -11,6 +11,14 @@ Se rulează fișierul Tema5.als, ce se va deschide în Ableton Live Suite, avân
 Pentru controlul prin OSC, se deschide aplicația de iPhone Syntien. Se merge la Interface, unde se poate crea un nou Layout. Sugestie de Layout:
 
 ![Syntien Demo](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/341811a4-db2b-4b5d-94cd-538bed6d6144)
+
+Pentru layout-ul propriu se adaugă în următoarele piese:
+- schimbarea octavei: incrementbox1
+- generator de semnal: button1 - SIN, button2 - SAW, button3 - WAVE, iar pentru forma de undă ADSR, button4 - SAW, button5 - RECT și button6 - TRI - number of states: 1
+- frecvența de modulație: rotary1 - number of states: 8
+- frecvența ADSR: knob1
+- amplitudine: slider3
+- on/off: button7 - number of states: 2
 
 ## Istoric
 
@@ -37,6 +45,10 @@ Pentru controlul prin OSC, se deschide aplicația de iPhone Syntien. Se merge la
 10.05 - Adaugare schimbare de octava.
 
 ![Varianta finala, din inregistrarea video](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/17dda93a-782a-4f69-bc09-da5a339d0b06)
+
+14.06 - Adaugare funcitonalitate completa independenta de OSC, direct in layoutul pluginului M4L
+
+15.06 - Imbunatatire layout plugin M4L si documentatie.
 
 
 
