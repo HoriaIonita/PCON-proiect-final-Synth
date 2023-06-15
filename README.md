@@ -12,7 +12,7 @@ Pentru controlul prin OSC, se deschide aplicația de iPhone Syntien. Se merge la
 
 ![Syntien Demo](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/341811a4-db2b-4b5d-94cd-538bed6d6144)
 
-Pentru layout-ul propriu se adaugă în următoarele piese:
+Pentru layout-ul propriu se adaugă următoarele piese:
 - schimbarea octavei: incrementbox1
 - generator de semnal: button1 - SIN, button2 - SAW, button3 - WAVE, iar pentru forma de undă ADSR, button4 - SAW, button5 - RECT și button6 - TRI - number of states: 1
 - frecvența de modulație: rotary1 - number of states: 8
