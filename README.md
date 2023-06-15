@@ -50,6 +50,8 @@ Pentru layout-ul propriu se adaugă următoarele piese:
 
 15.06 - Imbunatatire layout plugin M4L si documentatie.
 
+![image](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/cc3845b1-42b5-4330-8ce4-47b1eb617134)
+
 
 
 ## Link-uri
