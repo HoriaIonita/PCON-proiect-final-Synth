@@ -64,8 +64,7 @@ Pentru layout-ul propriu se adaugă următoarele piese:
 
 19.06 - Finalizare layout plugin M4L și documentație.
 
-![image](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/7ceabeae-d3fa-42fa-809a-ebd267e57304)
-
+![image](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/e97206c1-53cc-4da4-894d-41ec2db34da2)
 
 ## Link-uri
 
