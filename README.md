@@ -1,5 +1,5 @@
 # HiSynth
-Am creat un mic synth ce are ca intrare un track MIDI. Informația MIDI este transformată în polifonie, având octavă, frecvență de modulație, frecvență semnal și amplitudine ajustabile fie prin interfața pluginului MAX for LIVE, fie prin OSC.
+Am creat un mic synth ce are ca intrare un track MIDI. Informația MIDI este transformată în polifonie, având octavă, frecvență de modulație, frecvență semnal și amplitudine ajustabile fie prin interfața pluginului MAX for LIVE, fie prin OSC. Mai mult, am, creat 6 preset-uri pentru a facilita interacțiunea cu synth-ul. Cel de-al șaselea preset poate fi suprascris de un preset construit de către utilizator. Întregul synth poate fi controlat atât prin interfața MAX for LIVE, cât și prin OSC.
 
 ## Instalare
 Pentru folosirea acestui synth, este nevoie de Ableton Live Suite.
@@ -8,7 +8,7 @@ Pentru controlul prin OSC, va trebui instalată aplicația de iPhone Syntien (ht
 
 ## Utilizare
 Se rulează fișierul Tema5.als, ce se va deschide în Ableton Live Suite, având ca track-uri prepopulate tema principală din franciza The Pirates of the Caribbean.
-Pentru controlul prin OSC, se deschide aplicația de iPhone Syntien. Se merge la Interface, unde se poate crea un nou Layout. Sugestie de Layout:
+Pentru controlul prin OSC, se deschide aplicația de iPhone Syntien. Se merge la Interface, unde se poate crea un nou Layout în care se vor adăuga componentele de care avem nevoie. Sugestie de Layout:
 
 ![Syntien Demo Final](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/5f43bef7-7f95-4b17-8f5a-2c351a556e0a)
 
