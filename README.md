@@ -1,5 +1,5 @@
 # HiSynth
-Am creat un mic synth ce are ca intrare un track MIDI. Informația MIDI este transformată în polifonie, având octavă, frecvență de modulație, frecvență semnal și amplitudine ajustabile fie prin interfața pluginului MAX for LIVE, fie prin OSC. Mai mult, am, creat 6 preset-uri pentru a facilita interacțiunea cu synth-ul. Cel de-al șaselea preset poate fi suprascris de un preset construit de către utilizator. Întregul synth poate fi controlat atât prin interfața MAX for LIVE, cât și prin OSC.
+Am creat un mic synth ce are ca intrare un track MIDI. Informația MIDI este transformată în polifonie, având octavă, frecvență de modulație, frecvență semnal și amplitudine ajustabile fie prin interfața pluginului MAX for LIVE, fie prin OSC. Mai mult, am creat 6 preset-uri pentru a facilita interacțiunea cu synth-ul. Cel de-al șaselea preset poate fi suprascris de un preset construit de către utilizator. Întregul synth poate fi controlat atât prin interfața MAX for LIVE, cât și prin OSC.
 
 ## Instalare
 Pentru folosirea acestui synth, este nevoie de Ableton Live Suite.
