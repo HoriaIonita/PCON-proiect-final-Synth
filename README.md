@@ -22,6 +22,8 @@ Pentru layout-ul propriu se adaugă următoarele piese:
 - salvare propriul preset pe poziția 6: button13 - number of states: 1
 - on/off: button14 - number of states: 2
 
+Synth-ul folosește portul default al aplicației Sythien. Prin urmare nu trebuie modificată nicio setare în afară de creare propriului layout.
+
 ## Istoric
 
 16.03 - Am facut mai multe tipuri de generator de semnal si am incercat sa le fac usor de interschimbat pentru a se observa diferentele. Am adaugat si un osciloscop ca sa avem si o reprezentare vizuala a semnalelor. Am implementat un generator de note random prin alta metoda decat cea de la keyboard. Am ajuns la multiple posibilitati de a conecta fiecare parametru, in final ajungand la un fel de sintetizator partial util si foarte interesant.
