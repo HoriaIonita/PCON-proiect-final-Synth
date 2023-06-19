@@ -62,7 +62,7 @@ Synth-ul folosește portul default al aplicației Sythien. Prin urmare nu trebui
 
 18.06 - Adăugare opțiune salvare propirul preset pe varianta 6. Optimizări. Modificare aplicație OSC pentru a folosi și toate opțiunile de preset.
 
-![image](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/76157f32-9fec-4731-83cc-bb83f07e0839)
+![image](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/c45cde86-35a5-4942-82d0-c8e87cbfab4f)
 
 19.06 - Finalizare layout plugin M4L și documentație.
 
