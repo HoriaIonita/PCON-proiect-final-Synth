@@ -10,15 +10,17 @@ Pentru controlul prin OSC, va trebui instalată aplicația de iPhone Syntien (ht
 Se rulează fișierul Tema5.als, ce se va deschide în Ableton Live Suite, având ca track-uri prepopulate tema principală din franciza The Pirates of the Caribbean.
 Pentru controlul prin OSC, se deschide aplicația de iPhone Syntien. Se merge la Interface, unde se poate crea un nou Layout. Sugestie de Layout:
 
-![Syntien Demo](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/341811a4-db2b-4b5d-94cd-538bed6d6144)
+![Syntien Demo Final](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/5f43bef7-7f95-4b17-8f5a-2c351a556e0a)
 
 Pentru layout-ul propriu se adaugă următoarele piese:
 - schimbarea octavei: incrementbox1
 - generator de semnal: button1 - SIN, button2 - SAW, button3 - WAVE, iar pentru forma de undă ADSR, button4 - SAW, button5 - RECT și button6 - TRI - number of states: 1
 - frecvența de modulație: rotary1 - number of states: 8
 - frecvența ADSR: knob1
-- amplitudine: slider3
-- on/off: button7 - number of states: 2
+- amplitudine: slider1
+- comutare preset-uri: button7-12 - number of states: 1
+- salvare propriul preset pe poziția 6: button13 - number of states: 1
+- on/off: button14 - number of states: 2
 
 ## Istoric
 
@@ -51,6 +53,19 @@ Pentru layout-ul propriu se adaugă următoarele piese:
 15.06 - Imbunatatire layout plugin M4L si documentatie.
 
 ![image](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/cc3845b1-42b5-4330-8ce4-47b1eb617134)
+
+17.06 - Adăugare funcționalitate preset.
+
+![image](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/43904b6e-6559-4004-aa06-1b5ce4cbd968)
+
+18.06 - Adăugare opțiune salvare propirul preset pe varianta 6. Optimizări. Modificare aplicație OSC pentru a folosi și toate opțiunile de preset.
+
+![image](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/76157f32-9fec-4731-83cc-bb83f07e0839)
+
+19.06 - Finalizare layout plugin M4L și documentație.
+
+![image](https://github.com/HoriaIonita/PCON-proiect-final-Synth/assets/134622616/7ceabeae-d3fa-42fa-809a-ebd267e57304)
+
 
 ## Link-uri
 
